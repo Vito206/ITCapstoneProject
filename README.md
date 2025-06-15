@@ -18,22 +18,22 @@ A Twitch-specific response framework for real-time threats including DDoS attack
 A streamer- and viewer-facing guide with tips on enabling 2FA, spotting scams, managing AutoMod flags, and securing stream keys — designed for accessibility and education.
 
 🔍 Tools & Concepts Used
-CISSP Framework (Security & Risk Mgmt, IAM, Architecture, Operations, Software Security)
+* CISSP Framework (Security & Risk Mgmt, IAM, Architecture, Operations, Software Security)
 
-Threat modeling
+* Threat modeling
 
-Network segmentation & role-based access control
+* Network segmentation & role-based access control
 
-Secure development best practices
+* Secure development best practices
 
-Educational design for end-user awareness
+* Educational design for end-user awareness
 
 🧠 What We Learned
-How to apply CISSP principles to a real-world tech platform
+* How to apply CISSP principles to a real-world tech platform
 
-The importance of layered defense, especially in real-time systems
+* The importance of layered defense, especially in real-time systems
 
-How AI and automation introduce new risks requiring ethical oversight
+* How AI and automation introduce new risks requiring ethical oversight
 
-How to communicate complex security strategies in user-friendly formats
+* How to communicate complex security strategies in user-friendly formats
 
