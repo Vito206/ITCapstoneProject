@@ -1,0 +1,1 @@
+This is a cybersecurity capstone project focused on Twitch, the popular live-streaming platform. Using the CISSP (Certified Information Systems Security Professional) framework, our team developed a set of professional-grade security solutions to address real-world threats such as DDoS attacks, AI moderation risks, data breaches, and account takeovers.
